@@ -1,2 +1,2 @@
 # AiEC
-Official website for the AI in Ethiopia Initiative
+Official website for the AI in Ethiopia Conference
