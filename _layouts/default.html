@@ -3,7 +3,7 @@
 
     <head>
         {% if jekyll.environment  == "production" %}
-        {% assign basepath = "/iclr2020" %}
+        {% assign basepath = "/AiEConf" %}
         {%else%}
         {% assign basepath = "" %}
         {% endif %}
@@ -31,6 +31,7 @@
 
         <div class="headerbox ">
             <header class="headercontent centermiddle " role="banner">
+background-image: url("../../images/banner2.jpg");
 
                 <div class="subtopic">
                     {{ page.description | default: site.description | default: site.github.project_tagline }}
