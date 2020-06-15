@@ -73,7 +73,7 @@ title: AI in Ethiopia
     </div>
 
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/anh.jpg" class="headshot">
+        <img src="{{basepath}}/images/speakers/anh.png" class="headshot">
         <div class="headshotname"> Dr. Anh Nguyen </div>
          <a href="insert link" class="headshotaffiliation"> Imperial College London, AI for Healthcare and Robotics  </a>
     </div>
@@ -154,7 +154,7 @@ title: AI in Ethiopia
 
 <div>
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/mesfin.jpg" class="headshot">
+        <img src="{{basepath}}/images/speakers/mesfin.png" class="headshot">
         <div class="headshotname"> Dr. Mesfin Abebe </div>
          <a href="insert link" class="headshotaffiliation">Adama Science and Technology University, Smart Software and Systems</a>
     </div>
