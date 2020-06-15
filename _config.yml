@@ -7,9 +7,9 @@ navigation:
 - text: HOME
   url: /
 - text: EVENTS
-  url: /events.html
+  url: /events.md
   layout: post
 - text: ORGANIZERS
-  url: /organizers.html  
+  url: /organizers.md  
 - text: ABOUT
-  url: /about.html
+  url: /about.md
