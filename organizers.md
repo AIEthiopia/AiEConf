@@ -3,7 +3,7 @@
 ## Organizers - Coming soon
 
         {% if jekyll.environment  == "production" %}
-        {% assign basepath = "/iclr2020" %}
+        {% assign basepath = "/AiEConf" %}
         {%else%}
         {% assign basepath = "" %}
         {% endif %}

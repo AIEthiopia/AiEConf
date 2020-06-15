@@ -20,7 +20,7 @@
 
         {% seo %}
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="theme-color" content="#157868">
+        <meta name="theme-color" content="#157878">
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
         <link rel="stylesheet"
             href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
@@ -31,8 +31,6 @@
 
         <div class="headerbox ">
             <header class="headercontent centermiddle " role="banner">
-background-image: url("../../images/banner2.jpg");
-
                 <div class="subtopic">
                     {{ page.description | default: site.description | default: site.github.project_tagline }}
                 </div>
@@ -72,7 +70,7 @@ background-image: url("../../images/banner2.jpg");
             <footer class="site-footer">
                 {% if site.github.is_project_page %}
                 <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">AiEConf</a> is
-                    maintained by the PML4DC
+                    maintained by the AI in Ethiopia Conference
                     <a href="{{ site.github.owner_url }}"> Organizers</a>.</span>
                 {% endif %}
                 <span class="site-footer-credits">This page is hosted on Github using <a

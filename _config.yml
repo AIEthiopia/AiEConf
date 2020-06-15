@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 description: "AI in Ethiopia Conference"
-basepath: "AiEC/"
+basepath: "AiEConf/"
 google_analytics: UA-156425047-1
 
 navigation:
