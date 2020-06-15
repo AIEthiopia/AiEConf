@@ -1,0 +1,15 @@
+theme: jekyll-theme-cayman
+description: "AI in Ethiopia Conference"
+basepath: "AiEC/"
+google_analytics: UA-156425047-1
+
+navigation:
+- text: HOME
+  url: /
+- text: EVENTS
+  url: /events.html
+  layout: post
+- text: ORGANIZERS
+  url: /organizers.html  
+- text: ABOUT
+  url: /about.html
