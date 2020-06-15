@@ -8,8 +8,10 @@ navigation:
   url: /
 - text: EVENTS
   url: /events.md
-  layout: post
+  layout: default
 - text: ORGANIZERS
   url: /organizers.md  
+  layout: default
 - text: ABOUT
   url: /about.md
+  layout: default
