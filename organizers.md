@@ -1,2 +1,0 @@
-
-## Organizers - Coming soon
