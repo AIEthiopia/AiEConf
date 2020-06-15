@@ -1,4 +1,4 @@
-## The First AI in Ethiopia Conference was held in Addis Ababa University in 2019 - More details Coming soon
+
 
         {% if jekyll.environment  == "production" %}
         {% assign basepath = "/AiEConf" %}
@@ -8,7 +8,7 @@
        
  <!-- ## AI in Ethiopia Conference Organizers--> 
 
-
+## The First AI in Ethiopia Conference was held in Addis Ababa University in 2019 - More details Coming soon
 ## Keynote Speakers
 
 <div>
@@ -21,7 +21,7 @@
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/rediet.jpg" class="headshot">
         <div class="headshotname"> Dr. Rediet Abebe </div>
-         <a href=""insert link"" class="headshotaffiliation"> Harvard Society of Fellows, Mechanism Design for Social Good (MD4SG)  </a>
+         <a href="insert link" class="headshotaffiliation"> Harvard Society of Fellows, Mechanism Design for Social Good (MD4SG)  </a>
     </div>
 
     <div class="iblock headshotbox "> 
@@ -31,19 +31,20 @@
     </div> 
 
 
+
+</div>
+    
+<div>
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/wondwossen.jpg" class="headshot">
         <div class="headshotname"> Dr. Wondwossen Mulugeta </div>
             <a href="insert link" class="headshotaffiliation"> Addis Ababa University, Natural Language Technologies, Machine Learning </a>
     </div>
 
-</div>
-    
-<div>
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/basiliyos.jpg" class="headshot">
         <div class="headshotname"> Basiliyos Tilahun </div>
-         <a href=""insert link"" class="headshotaffiliation"> PhD Candidate, Polytechnic de Yaoundé, Deep Learning in context aware systems  </a>
+         <a href="insert link" class="headshotaffiliation"> PhD Candidate, Polytechnic de Yaoundé, Deep Learning in context aware systems  </a>
     </div>
 
      <div class="iblock headshotbox "> 
@@ -52,6 +53,11 @@
         <a href="insert link" class="headshotaffiliation"> Haramaya University, Natural language Processing </a> 
     </div> 
 
+
+</div>
+
+    
+<div>
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/dereje_t.jpg" class="headshot">
         <div class="headshotname"> Dr. Dereje Teferi </div>
@@ -61,18 +67,20 @@
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/feven.jpg" class="headshot">
         <div class="headshotname"> Feven Teferi </div>
-         <a href=""insert link"" class="headshotaffiliation"> Wolaita Sodo University, Artificial Intelligence Natural Language Processing </a>
+         <a href="insert link" class="headshotaffiliation"> Wolaita Sodo University, Artificial Intelligence Natural Language Processing </a>
     </div>
 
-</div>
-
-    
-<div>
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/anh.jpg" class="headshot">
         <div class="headshotname"> Dr. Anh Nguyen </div>
          <a href="insert link" class="headshotaffiliation"> Imperial College London, AI for Healthcare and Robotics  </a>
     </div>
+
+  
+</div>
+
+
+<div>
 
      <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/dereje_y.jpg" class="headshot">
@@ -85,24 +93,20 @@
         <div class="headshotname"> Dr. Ojo John Adedapo </div>
             <a href="insert link" class="headshotaffiliation">Ladoke Akintola University of Technology, Signal Processing and Machine Learning</a>
     </div>
-    
-    <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/ashenafi.jpg" class="headshot">
-        <div class="headshotname"> Ashenafi Kebede </div>
-         <a href="insert link" class="headshotaffiliation">Dean of School of Informatics, Wolaita Sodo University </a>
-    </div>
 
-</div>
-
-
-<div>
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/fisseha.jpg" class="headshot">
         <div class="headshotname"> Fisseha Gidey </div>
          <a href="insert link" class="headshotaffiliation"> University de Yaoundé, Algorithms for Big Data Visualization  </a>
     </div>
 
-     <div class="iblock headshotbox "> 
+
+</div>
+
+
+<div>
+
+<div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/selam.jpg" class="headshot">
         <div class="headshotname"> Dr. Selam Waktola </div>
         <a href="insert link" class="headshotaffiliation"> Lodz University of Technology, Computer Vision and Machine Learning </a> 
@@ -123,7 +127,9 @@
 </div>
 
 
+
 <div>
+
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/natnael.jpg" class="headshot">
         <div class="headshotname"> Natnael Argaw </div>
@@ -137,22 +143,27 @@
     </div> 
 
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/tariku.jpg" class="headshot">
-        <div class="headshotname"> Tariku Adane </div>
-            <a href="insert link" class="headshotaffiliation">Ethiopian Biotechnology Institute, Machine Learning</a>
+        <img src="{{basepath}}/images/speakers/ashenafi.jpg" class="headshot">
+        <div class="headshotname"> Ashenafi Kebede </div>
+         <a href="insert link" class="headshotaffiliation">Dean of School of Informatics, Wolaita Sodo University </a>
     </div>
-    
+
+<div>
+
+<div>
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/mesfin.jpg" class="headshot">
         <div class="headshotname"> Dr. Mesfin Abebe </div>
          <a href="insert link" class="headshotaffiliation">Adama Science and Technology University, Smart Software and Systems</a>
     </div>
 
-</div>
+    <div class="iblock headshotbox "> 
+        <img src="{{basepath}}/images/speakers/tariku.jpg" class="headshot">
+        <div class="headshotname"> Tariku Adane </div>
+            <a href="insert link" class="headshotaffiliation">Ethiopian Biotechnology Institute, Machine Learning</a>
+    </div>
 
 
-
-<div>
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/michael.jpg" class="headshot">
         <div class="headshotname"> Dr. Michael Melese </div>
