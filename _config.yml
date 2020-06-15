@@ -8,13 +8,9 @@ navigation:
   url: /
 - text: EVENTS
   url: /events.html
-  layout: default
 - text: ORGANIZERS
   url: /organizers.html  
-  layout: default
 - text: DATES
   url: /dates.html
-  layout: default
 - text: ABOUT
   url: /about.html
-  layout: default
