@@ -32,8 +32,6 @@ title: AI in Ethiopia
         <a href="insert link" class="headshotaffiliation"> University of Southern California, President of AAAI </a> 
     </div> 
 
-
-
 </div>
     
 <div>
