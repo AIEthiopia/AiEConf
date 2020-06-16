@@ -12,21 +12,21 @@ title: AI in Ethiopia
 
 <div>
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/aman.jpg" class="headshot">
+        <img src="{{basepath}}/images/organizers/aman.jpg" class="headshot">
         <div class="headshotname"> Amanuel Negash </div>
             <a href="insert link" class="headshotaffiliation">Artificial Intelligence, Addis Ababa university</a>
             <a href = "mailto:  amanyamy@gmail.com "> amanyamy@gmail.com </a>
     </div>
     
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/meareg.jpg" class="headshot">
+        <img src="{{basepath}}/images/organizers/meareg.jpg" class="headshot">
         <div class="headshotname"> Meareg Hailemariam </div>
          <a href="insert link" class="headshotaffiliation"> Artificial Intelligence, Addis Ababa University</a>
          <a href = "mailto:  mearegab@gmail.com "> mearegab@gmail.com </a>
     </div>
 
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/satish.png" class="headshot">
+        <img src="{{basepath}}/images/organizers/satish.png" class="headshot">
         <div class="headshotname"> Dr. Satishkumar Belliethatan</div>
         <a href="insert link" class="headshotaffiliation"> Environmental Science, Addis Ababa University </a> 
         <a href = "mailto: satishbellie@gmail.com ">satishbellie@gmail.com</a>
@@ -38,21 +38,21 @@ title: AI in Ethiopia
 <div>
     
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/natnael.jpg" class="headshot">
+        <img src="{{basepath}}/images/organizers/natnael.jpg" class="headshot">
         <div class="headshotname"> Natnael Argaw </div>
         <a href="insert link" class="headshotaffiliation">Computer Vision, Addis Ababa University </a>
         <a href = "mailto: natnaelargaw@gmail.com">natnaelargaw@gmail.com</a>
     </div>
 
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/tewodros.jpg" class="headshot">
+        <img src="{{basepath}}/images/organizers/tewodros.jpg" class="headshot">
         <div class="headshotname"> Tewodros Abebe </div>
          <a href="insert link" class="headshotaffiliation"> Natural Language Processing, Wolaita Sodo University </a>
             <a href = "mailto: letedi@gmail.com">letedi@gmail.com</a>
     </div>
 
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/michael.jpg" class="headshot">
+        <img src="{{basepath}}/images/organizers/michael.jpg" class="headshot">
         <div class="headshotname"> Dr. Michael Yohannes </div>
         <a href="insert link" class="headshotaffiliation"> Speech & Natural Language Processing, Addis Ababa University</a> 
         <a href = "mailto: michaelmelese@gmail.com ">michaelmelese@gmail.com </a>
@@ -68,13 +68,13 @@ title: AI in Ethiopia
 
 <div>
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/timnit.jpg" class="headshot">
+        <img src="{{basepath}}/images/organizers/timnit.jpg" class="headshot">
         <div class="headshotname"> Dr. Timnit Gebru </div>
             <a href="insert link" class="headshotaffiliation">Google AI, Co-founder of Black in AI, Computer Vision & Fairness in AI</a>
     </div>
     
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/rediet.jpg" class="headshot">
+        <img src="{{basepath}}/images/organizers/rediet.jpg" class="headshot">
         <div class="headshotname"> Dr. Rediet Abebe </div>
          <a href="insert link" class="headshotaffiliation"> Harvard Society of Fellows, Mechanism Design for Social Good (MD4SG)  </a>
     </div>
