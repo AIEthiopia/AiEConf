@@ -73,7 +73,7 @@ title: AI in Ethiopia
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/anh.png" class="headshot">
         <div class="headshotname"> Dr. Anh Nguyen </div>
-         <a href="insert link" class="headshotaffiliation"> Imperial College London, AI for Healthcare and Robotics  </a>
+         <a href="insert link" class="headshotaffiliation"> Imperial College London, AI for Healthcare and Robotics </a>
     </div>
 
   
@@ -182,4 +182,4 @@ title: AI in Ethiopia
 
 ## Talks and Videos
 
-Coming soon...
+Will be added soon...

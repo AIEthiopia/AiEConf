@@ -14,42 +14,52 @@ title: AI in Ethiopia
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/aman.jpg" class="headshot">
         <div class="headshotname"> Amanuel Negash </div>
-            <a href="insert link" class="headshotaffiliation">Artificial Intelligence, Addis Ababa university, amanyamy@gmail.com</a>
+            <a href="insert link" class="headshotaffiliation">Artificial Intelligence, Addis Ababa university</a>
+            <a href = "mailto:  amanyamy@gmail.com "> amanyamy@gmail.com </a>
     </div>
     
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/meareg.jpg" class="headshot">
         <div class="headshotname"> Meareg Hailemariam </div>
-         <a href="insert link" class="headshotaffiliation"> Artificial Intelligence, Addis Ababa University, mearegab@gmail.com </a>
+         <a href="insert link" class="headshotaffiliation"> Artificial Intelligence, Addis Ababa University</a>
+         <a href = "mailto:  mearegab@gmail.com "> mearegab@gmail.com </a>
     </div>
 
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/satish.png" class="headshot">
         <div class="headshotname"> Dr. Satishkumar Belliethatan</div>
-        <a href="insert link" class="headshotaffiliation"> Environmental Science, Addis Ababa University, michaelmelese@gmail.com </a> 
+        <a href="insert link" class="headshotaffiliation"> Environmental Science, Addis Ababa University </a> 
+        <a href = "mailto: satishbellie@gmail.com ">satishbellie@gmail.com</a>
     </div> 
 
 </div>
 
 
 <div>
+    
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/natnael.jpg" class="headshot">
         <div class="headshotname"> Natnael Argaw </div>
-            <a href="insert link" class="headshotaffiliation">Computer Vision, Addis Ababa University, natnaelargaw@gmail.com </a>
+        <a href="insert link" class="headshotaffiliation">Computer Vision, Addis Ababa University </a>
+        <a href = "mailto: natnaelargaw@gmail.com">natnaelargaw@gmail.com</a>
     </div>
-    
+
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/tewodros.jpg" class="headshot">
         <div class="headshotname"> Tewodros Abebe </div>
-         <a href="insert link" class="headshotaffiliation"> Natural Language Processing, Wolaita Sodo University, letedi@gmail.com </a>
+         <a href="insert link" class="headshotaffiliation"> Natural Language Processing, Wolaita Sodo University </a>
+            <a href = "mailto: letedi@gmail.com">letedi@gmail.com</a>
     </div>
 
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/michael.jpg" class="headshot">
         <div class="headshotname"> Dr. Michael Yohannes </div>
-        <a href="insert link" class="headshotaffiliation"> Speech & Natural Language Processing, Addis Ababa University, michaelmelese@gmail.com </a> 
+        <a href="insert link" class="headshotaffiliation"> Speech & Natural Language Processing, Addis Ababa University</a> 
+        <a href = "mailto: michaelmelese@gmail.com ">michaelmelese@gmail.com </a>
     </div> 
+
+
+
 
 </div>
 
@@ -74,5 +84,5 @@ title: AI in Ethiopia
 <!--Although both Timnit and Rediet do not have a direct involvement in this initiative, the ripple effect that has been created by their work in the Black in AI group and Mechanism Design for Social Good has been substantial. Specifically, they advocate for richer inclusive culture in big conferences such as AAAI, ICLR and NeurIPS. It has fueled and inspired our team to cultivate the AI research and development here in Ethiopia.-->
 
 ## Program Committe - 
-Coming soon
+Will be added soon.
 

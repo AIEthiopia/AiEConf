@@ -8,5 +8,4 @@ title: AI in Ethiopia
         {% assign basepath = "" %}
         {% endif %}
 
-## Important Dates for 2020 - coming soon - Coming soon...
-
+## Important Dates for 2020 - To Be Announced Soon
